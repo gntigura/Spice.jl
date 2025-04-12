@@ -1,5 +1,5 @@
 module Spice
 
-# Write your package code here.
+include("parser_for_sim.jl")
 
 end
